@@ -339,7 +339,7 @@ html {
 }
 @media(max-width: 1024px){
     .navbar .menu{
-        height: 40%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 460px;
@@ -352,7 +352,7 @@ html {
     }
 @media(max-width: 768px){
     .navbar .menu{
-        height: 50%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 330px;
@@ -365,7 +365,7 @@ html {
     }
     @media(max-width: 414px){
     .navbar .menu{
-        height: 70%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 155px;
@@ -378,7 +378,7 @@ html {
     }
 @media(max-width: 411px){
     .navbar .menu{
-        height: 76%;
+        height: 106%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 155px;
@@ -389,7 +389,7 @@ html {
 }
 @media(max-width: 376px){
     .navbar .menu{
-        height: 76%;
+        height: 106%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 140px;
@@ -403,7 +403,7 @@ html {
     }
     @media(max-width: 360px){
     .navbar .menu{
-        height: 80%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 130px;
@@ -416,7 +416,7 @@ html {
     }
 @media(max-width: 320px){
     .navbar .menu{
-        height: 90%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 115px;
