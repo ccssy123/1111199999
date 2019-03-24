@@ -416,14 +416,15 @@ html {
     }
 @media(max-width: 320px){
     .navbar .menu{
-        height: 90%;
+        height: 100%;
      }
      .navbar .menu .menu-link .txt-2{
         margin-left: 115px;
+          position: fixed;
 }
 .navbar .menu .menu-link img{
         margin-left: 95px;
-    
+          position: fixed;
 }
 
     }
