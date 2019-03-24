@@ -414,6 +414,20 @@ html {
 }
 
     }
+    @media(max-height: 454px){
+    .navbar .menu{
+        height: 100%;
+     }
+     .navbar .menu .menu-link .txt-2{
+        margin-left: 115px;
+        margin-top: 5px;
+}
+.navbar .menu .menu-link img{
+        margin-left: 95px;
+    
+}
+
+    }
 @media(max-width: 320px){
     .navbar .menu{
         height: 100%;
